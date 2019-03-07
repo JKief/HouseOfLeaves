@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: 40fd29a28b65d6f4c8b2c495f55dcf6e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Camera.target
+    100004: Concrete_t
+    100006: Floor
+    100008: Metal_fram
+    100010: myOctaneSe
+    100012: Octan
+    100014: OctaneLigh
+    100016: OctaneSky
+    100018: Rubbe
+    100020: Rubbe1
+    100022: Rubbe2
+    100024: Rubber
+    100026: Supplied_b
+    100028: //RootNode
+    400000: Camera
+    400002: Camera.target
+    400004: Concrete_t
+    400006: Floor
+    400008: Metal_fram
+    400010: myOctaneSe
+    400012: Octan
+    400014: OctaneLigh
+    400016: OctaneSky
+    400018: Rubbe
+    400020: Rubbe1
+    400022: Rubbe2
+    400024: Rubber
+    400026: Supplied_b
+    400028: //RootNode
+    2100000: Floor
+    2100002: Rubber
+    2100004: Table top
+    2100006: Metal frame Mix
+    2300000: Concrete_t
+    2300002: Floor
+    2300004: Metal_fram
+    2300006: myOctaneSe
+    2300008: OctaneSky
+    2300010: Rubbe
+    2300012: Rubbe1
+    2300014: Rubbe2
+    2300016: Rubber
+    2300018: Supplied_b
+    3300000: Concrete_t
+    3300002: Floor
+    3300004: Metal_fram
+    3300006: myOctaneSe
+    3300008: OctaneSky
+    3300010: Rubbe
+    3300012: Rubbe1
+    3300014: Rubbe2
+    3300016: Rubber
+    3300018: Supplied_b
+    4300000: OctaneSky
+    4300002: Supplied_b
+    4300004: Concrete_t
+    4300006: Metal_fram
+    4300008: Rubber
+    4300010: Rubbe
+    4300012: Rubbe1
+    4300014: Rubbe2
+    4300016: myOctaneSe
+    4300018: Floor
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
